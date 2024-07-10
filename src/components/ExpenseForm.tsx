@@ -99,7 +99,6 @@ export const ExpenseForm = () => {
 					name='amount'
 					value={expense.amount}
 					onChange={handleChange}
-					required
 				/>
 			</div>
 
